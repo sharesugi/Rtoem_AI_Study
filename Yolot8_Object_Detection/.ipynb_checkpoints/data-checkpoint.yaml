@@ -1,0 +1,6 @@
+path: /home/eva/jupyter_home/Yolot8_Object_Detection/datasets/fire_datasets
+train: /home/eva/jupyter_home/Yolot8_Object_Detection/datasets/fire_datasets/images/train
+val: /home/eva/jupyter_home/Yolot8_Object_Detection/datasets/fire_datasets/images/val
+
+nc: 1
+names: ['fire']
